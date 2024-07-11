@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2394FDF-1F5E-4D5B-84CF-88673A4AA0EC"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E0E10F1-23EC-47F4-9D77-09438842FFB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bipzon/ProductApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "fetchProducts(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E0E10F1-23EC-47F4-9D77-09438842FFB9 - 24c87c4b33b11d03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bipzon.ProductApi.fetchProducts(completion: (Swift.Result&lt;Bipzon.ProductModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bipzon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishwajityadav/Desktop/Bipzon/Bipzon/ProductApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "0E0E10F1-23EC-47F4-9D77-09438842FFB9 - c5843c082f5bc3a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Bipzon.ProductApi.fetchProducts(completion: (Swift.Result&lt;Bipzon.ProductModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bipzon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishwajityadav/Desktop/Bipzon/Bipzon/ProductApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "0E0E10F1-23EC-47F4-9D77-09438842FFB9 - 24c87c4b33b11d20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bipzon.ProductApi.fetchProducts(completion: (Swift.Result&lt;Bipzon.ProductModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Bipzon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishwajityadav/Desktop/Bipzon/Bipzon/ProductApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F423E421-BE63-42EB-87CD-2291C211450C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bipzon/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "RegisterBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0789ED83-635E-4DA6-BEDA-60CCCC8797AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bipzon/Controller/ShopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0789ED83-635E-4DA6-BEDA-60CCCC8797AE - 595c5546b6daea75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bipzon.ShopViewController.collectionView(_: __C.UICollectionView, layout: __C.UICollectionViewLayout, sizeForItemAt: Foundation.IndexPath) -&gt; __C.CGSize"
+                  moduleName = "Bipzon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishwajityadav/Desktop/Bipzon/Bipzon/Controller/ShopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0789ED83-635E-4DA6-BEDA-60CCCC8797AE - 71c66f7c2f6891fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bipzon.ShopViewController.collectionView(_: __C.UICollectionView, willDisplay: __C.UICollectionViewCell, forItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "Bipzon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bishwajityadav/Desktop/Bipzon/Bipzon/Controller/ShopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

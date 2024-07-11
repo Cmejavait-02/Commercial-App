@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDMRA6uxU16ich7-soaQT5I4dmxw435Hsw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>881047749496</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.biswa.Bipzon</string>
+	<key>PROJECT_ID</key>
+	<string>bipzon-shopping</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bipzon-shopping.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:881047749496:ios:f2962ef98aeb23144e3e8d</string>
+</dict>
+</plist>
